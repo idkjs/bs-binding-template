@@ -14,6 +14,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^2.0.1"
+    "bs-platform": "^8.4.2"
   }
 }
